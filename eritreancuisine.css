@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+img {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 800px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p1 {
+    padding-left: 30px;
+    width: 200px;
+    height: 150px;
+}
+
+p2 {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 300px;
+    width: 200px;
+    height: 150px;
+}
+
+p3 {
+    padding-left: 50px;
+    padding-right: 500px;
+    width: 200px;
+    height: 150px;
+}
+
+p4 {
+    padding-left: 20px;
+    padding-right: 670px;
+}
+
+p5 {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 460px;
+    width: 200px;
+    height: 150px;
+}
+
+p6 {
+    padding-left: 50px;
+    padding-right: 380px;
+    width: 200px;
+    height: 150px;
+}
+
+p7 {
+    padding-left: 50px;
+}
